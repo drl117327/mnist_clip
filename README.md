@@ -1,5 +1,5 @@
 # mnist_clip
-基于mnist手写数字训练的clip模型，只能预测0-9
+基于clip的mnist手写数字识别，只能预测0-9
 
 ## 使用方法
 首先，确保已安装python环境，且安装了pytorch
