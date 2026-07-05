@@ -5,6 +5,7 @@
 首先，确保已安装python环境，且安装了pytorch
 
 ```bash
+git clone https://github.com/drl117327/mnist_clip.git
 conda create -n mnist_clip python=3.10
 conda activate mnist_clip
 pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126
